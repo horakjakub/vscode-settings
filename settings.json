@@ -1,31 +1,33 @@
 {
-    "editor.minimap.enabled": false,
-    "editor.fontSize": 15,
-    "git.autofetch": true,
-    "workbench.activityBar.visible": false,
-    "terminal.explorerKind": "external",
-    "workbench.panel.defaultLocation": "right",
-    "window.menuBarVisibility": "hidden",
-    "window.zoomLevel": 0,
-    "editor.unusualLineTerminators": "auto",
-    "[typescript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[typescriptreact]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "workbench.editor.enablePreview": false,
-    "[javascriptreact]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "window.newWindowDimensions": "maximized",
-    "[json]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[jsonc]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 15,
+  "git.autofetch": true,
+  "workbench.activityBar.visible": false,
+  "terminal.explorerKind": "external",
+  "workbench.panel.defaultLocation": "right",
+  "window.menuBarVisibility": "hidden",
+  "window.zoomLevel": 0,
+  "editor.unusualLineTerminators": "auto",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editor.enablePreview": false,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": null
+  },
+  "window.newWindowDimensions": "maximized",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.format.enable": true,
+  "diffEditor.ignoreTrimWhitespace": true,
 }
